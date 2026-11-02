@@ -12,8 +12,8 @@ window.PORTFOLIO_SITE = {
   email: "muhammadaliffahrezaalrafi@gmail.com",
   linkedin: "https://linkedin.com/in/aliffahreza",
   github: "https://github.com/AlifFahreza",
-  resume: "assets/files/resume/Alif_Fahreza_QA_Engineer_CV.docx",
-  heroIntro: "I'm Alif, a QA Engineer who tests web, Android, and payment experiences — turning careful investigation into more reliable software.",
+  resume: "assets/files/resume/Alif_Fahreza_QA_Engineer_CV.pdf",
+  heroIntro: "I test web applications, Android applications, APIs, and payment flows — combining hands-on manual QA with a software development background.",
   aboutParagraphs: [
     "I'm a QA Engineer with 2+ years of experience in manual testing across web applications, Android applications, APIs, and electronic payment systems.",
     "My previous experience developing web and Android applications gives me a technical perspective when analyzing application behavior, investigating issues, and collaborating with developers."
@@ -22,12 +22,12 @@ window.PORTFOLIO_SITE = {
     { title: "Manual & Functional QA", symbol: "◎", number: "01", description: "Structured testing across user-facing experiences, with clear documentation and traceable defects.", tags: ["Web", "Android", "Functional", "Regression", "Negative", "Exploratory"] },
     { title: "API & Troubleshooting", symbol: "{·}", number: "02", description: "Request/response checks, schema validation, and diagnostic investigation using logs.", tags: ["Postman", "API validation", "Logcat", "Defect reporting"] },
     { title: "Payment System QA", symbol: "↔", number: "03", description: "Hands-on transaction testing and message analysis within EDC and electronic payment environments.", tags: ["QRIS", "EMV", "3DS", "ISO 8583", "PAX / Nexgo"] },
-    { title: "Technical Foundation", symbol: "⌘", number: "04", description: "A software development background that helps bridge testing, debugging, and cross-team collaboration.", tags: ["MySQL", "Git", "Python", "Java", "Selenium", "Trello"] }
+    { title: "Technical Foundation", symbol: "⌘", number: "04", description: "A software development background that helps bridge testing, debugging, and cross-team collaboration.", tags: ["MySQL", "Git", "Python", "Java", "Trello"] }
   ],
   experiences: [
     { company: "Prima Vista Solusi", title: "Software Quality Assurance Engineer", date: "Oct 2024 — Present", primary: true,
       bullets: [
-        "Perform manual testing on web and Android applications, alongside functional, regression, negative, and exploratory testing of payment systems.",
+        "Perform manual functional, regression, negative, and exploratory testing across web applications, Android applications, and payment systems.",
         "Design and execute 1,000+ test cases; document defects and collaborate with technical teams on investigations.",
         "Validate API requests, responses, and schemas using Postman; investigate issues using Android Studio Logcat and remote logs.",
         "Test QRIS, EMV, 3DS, NPG, card, and on-us/off-us payment flows across PAX and Nexgo EDC terminals.",
