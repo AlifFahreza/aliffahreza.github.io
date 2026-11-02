@@ -43,3 +43,14 @@
 .build-version{font-size:10px;color:#72839a;font-weight:600;letter-spacing:.4px;white-space:nowrap}
 
 html,body{max-width:100%;overflow-x:clip}
+
+/* V2.3 — full-bleed Education section, visually distinct from Experience. */
+.education-section {
+  background: #e7eef3;
+  border-top: 1px solid #cbd9e3;
+  border-bottom: 1px solid #d5e1e8;
+}
+.education-section .section-index { color: #426c94; }
+@media print {
+  .education-section { background: #fff; border-top: 1px solid #d2dce2; }
+}
